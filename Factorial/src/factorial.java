@@ -9,7 +9,6 @@ public class factorial {
 			return resultat;
 		}
 	}
-
 	public static void main(String[] args) {
 		System.out.println("Introdueix un numero: ");
 		Scanner scan = new Scanner(System.in);
